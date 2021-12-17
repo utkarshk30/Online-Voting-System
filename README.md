@@ -1,5 +1,6 @@
 # OVS
-                                              Online Voting System designed & created by Utkarsh Khurana
+                                      Online Voting System designed & created by Utkarsh Khurana
+It is an online voting technique, simply designed for college elections to elect a president and vice-president of a College where voters (here simply students of college) can use his/her voting right without any difficulty.                                       
 
 # Home Page
 ![Screenshot (21)](https://user-images.githubusercontent.com/77911162/146564459-2c68e9c5-a381-4353-b38b-674a909e5539.png)
