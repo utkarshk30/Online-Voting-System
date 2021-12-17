@@ -30,6 +30,8 @@
 ![Screenshot (14)](https://user-images.githubusercontent.com/77911162/146565993-e17a555d-ccf1-447e-91d2-a1a43e51e22d.png)
 
 # Rquired SetUp-
+![Screenshot (25)](https://user-images.githubusercontent.com/77911162/146566544-a4d3164b-02c8-48dd-b410-f49b1dd328dd.png)
+
 ->Download and Install Xampp
 
 ->Run Apache and Mysql server through Xampp after installing
