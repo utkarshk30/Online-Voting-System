@@ -15,11 +15,11 @@ It is an online voting technique, simply designed for college elections to elect
 # DashBoard
 ![Screenshot (15)](https://user-images.githubusercontent.com/77911162/146565198-bbd4459e-dcda-4818-811b-5138d81b04e1.png)
 
-# Vote for College President
+<!-- # Vote for College President
 ![Screenshot (22)](https://user-images.githubusercontent.com/77911162/146565395-a42506a4-4000-445d-af1f-af93074020b0.png)
 
 # Vote for College Vice-President
-![Screenshot (23)](https://user-images.githubusercontent.com/77911162/146565530-fe2afdfa-0966-4dc9-bbbe-f13f71ce8192.png)
+![Screenshot (23)](https://user-images.githubusercontent.com/77911162/146565530-fe2afdfa-0966-4dc9-bbbe-f13f71ce8192.png) -->
 
 # User-Profile
 ![Screenshot (24)](https://user-images.githubusercontent.com/77911162/146565626-b1badb6c-a823-47ad-804c-d78ccc2e8f3a.png)
